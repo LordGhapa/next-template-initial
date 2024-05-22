@@ -6,7 +6,7 @@
   "extends": [
     "plugin:@next/next/recommended",
     "plugin:react/recommended",
-    "standard-with-typescript",
+    "eslint-config-love",
     "plugin:prettier/recommended"
   ],
   "overrides": [],
